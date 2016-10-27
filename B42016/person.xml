@@ -1,5 +1,0 @@
-<Person xmlns="http://schemas.datacontract.org/2004/07/RESTDemo">
-  <Age>30</Age>
-  <ID></ID>
-  <Name>Davis</Name>
-</Person>
