@@ -1,0 +1,63 @@
+Nombre del proyecto: B12017_LEC2_EL
+Nombres de clase:
+	EL_Tema1
+	EL_Tema2
+	EL_Tema3
+
+
+Tema 1: Realice un programa que genere los números del 0 al 100
+de 10 en 10 y luego del 90 al 0. Se debe utilizar ciclos repetitos.
+(20 puntos)
+
+Ejemplo:
+0
+10
+20
+30
+...
+...
+100
+90
+80
+...
+...
+10
+0
+
+
+
+Tema 2) Solicitar por teclado.
+Ingresar una frase y separar las palabras de una frase en diferentes líneas.
+(20 puntos)
+
+Ingrese una frase: Hola a todos
+Resultado:
+Hola
+a
+todos
+
+Ingrese una frase: Hoy es un bonito día
+Resultado:
+Hoy
+es
+un
+bonito
+día
+
+
+
+
+Tema 3: Solicitar por teclado la identificación.
+Crear una función que reciba la identificación y muestre
+ si es cédula o RUC. Cédula=10 digitos; RUC=13 digitos
+(20 puntos)
+
+Ingrese su identificación: 0912345678
+Resultado: Usted tiene una cédula
+
+Ingrese su identificación: 0912345678001
+Resultado: Usted tiene RUC
+
+
+
+
